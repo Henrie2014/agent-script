@@ -1,7 +1,7 @@
 #!/bin/bash
 
-Author: Henrie
+#Author: Henrie
 if [ $? -eq 0 ]
 then
-echo " success"
+echo "success"
 fi
